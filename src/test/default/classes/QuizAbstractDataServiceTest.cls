@@ -1,6 +1,7 @@
 @isTest(isParallel=true)
 public class QuizAbstractDataServiceTest {
     
+    private final static String qq = 'qqq';
     private final static String TEST_OBJECT_NAME = 'SampleObject';
     private final static String TEST_RECORD_NAME = 'Sample name';
 
